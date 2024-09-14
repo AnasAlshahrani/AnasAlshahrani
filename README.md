@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AnasSalem 
+- 👋 Hi, I’m @Anas 
 - 👀 I’m interested in web development & mobile applications development.  
 - 🌱 I’m currently learning and focus on web development by using .net framework. 
 - 💞️ I’m looking to collaborate on ...
